@@ -1,2 +1,2 @@
-# Zorin.OS
+# Zorin OS - Make your computer better, faster, easier, more powerful, more reliable, more secure,
 Zorin OS is a user-friendly, Ubuntu-based Linux distribution designed as an alternative to Windows and macOS, featuring a familiar interface for users transitioning to Linux. It enhances computer speed, power, security, and privacy while providing a simple user experience for both beginners and experienced users. Zorin OS supports Wine, Get it here
