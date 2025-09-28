@@ -1,5 +1,6 @@
 # Zorin OS - Make your computer better, faster, easier, more powerful, more reliable, more secure,
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/50c2304c-389e-489c-9e88-fd12982dfb90" /> <img width="258" height="195" alt="image" src="https://github.com/user-attachments/assets/627e8360-a789-4166-ad2f-06d6c6898678" />
+
 Zorin OS is a user-friendly, Ubuntu-based Linux distribution designed as an alternative to Windows and macOS, featuring a familiar interface for users transitioning to Linux. It enhances computer speed, power, security, and privacy while providing a simple user experience for both beginners and experienced users. Zorin OS supports Wine, Get it here
 
 # [Check "Releases"and choose your copy of Zorin OS or get lastest version from zorin.com](https://github.com/DreamPack-Software/Zorin.OS/releases/)
